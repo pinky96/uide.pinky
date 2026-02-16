@@ -10,4 +10,8 @@ Video 2: Explicacion diagrama de flujo
 
 Video 3: Explicacion del 50% del codigo en python utilizando Visual Studio Code
 
-🔗https://www.loom.com/share/775f631dc9a34dfeb3589ad88901e014
+🔗 https://www.loom.com/share/775f631dc9a34dfeb3589ad88901e014
+
+Video 4: Explicacion del respositorio en GitHub
+
+🔗 https://www.loom.com/share/13cf7243723248d98a1af8db5e348bbb
