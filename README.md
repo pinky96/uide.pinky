@@ -2,8 +2,11 @@
 Asignatura de lógica de programación. 
 
 Nombre: Domenica Fernandez Salvador
+
 Materia: logica de programación
+
 Universidad: UIDE
+
 Objetivo: Desarrollar un GENERADOR SEGURO DE CONTRASENAS con python en VScode.
 
 
